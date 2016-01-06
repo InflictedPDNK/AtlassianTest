@@ -26,6 +26,11 @@ As for the application, I used my test framework as a base. As UI was not a part
 - Separate resulting object for further extensions (like more output formats and analysis)
 - Builtin web page retrieval for data prefetching
 
+## Examples
+There are few tags registered in the application. Part of them is per Atlassian task requirements:
+@mentions, (emoticons) and URL links (http://; https://; www.)
+I also included "/me" as an example of using the library for commands parsing and nested tags.
+
 ## Dependencies
 The only external library which is used is Jsoup. This was required for easy Html parsing and network connection to satisfy the original goals.
 
