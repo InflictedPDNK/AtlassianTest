@@ -24,8 +24,7 @@ As for the application, I used my test framework as a base. As UI was not a part
 - Regex support
 - JSON output of resulting Tagged String
 - Separate resulting object for further extensions (like more output formats and analysis)
-- Built-in web page retrieval for data prefetching
-- 
+- Builtin web page retrieval for data prefetching
 
 ## Dependencies
 The only external library which is used is Jsoup. This was required for easy Html parsing and network connection to satisfy the original goals.
