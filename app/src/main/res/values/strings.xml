@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Atlassian Test</string>
+    <string name="enter_button">Enter</string>
+    <string name="edittext_hint">Type your message</string>
+</resources>
